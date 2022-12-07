@@ -9,6 +9,5 @@ this is the plotly geographical plot of the data to visualizing the worldwide sp
 <br />
 <br />
 <br />
-[Alt_text]https://user-images.githubusercontent.com/94745919/198308282-46c83955-ee80-4d51-a977-fe7818fe579d.gif
-
+! [Alt_text](https://user-images.githubusercontent.com/94745919/198308282-46c83955-ee80-4d51-a977-fe7818fe579d.gif)
 
